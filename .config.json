@@ -1,0 +1,1 @@
+{"envHosts":["my-blog.test"],"certs":{"cert":"/home/jc/.wplocaldocker/global/ssl-certs/my-blog-test.crt","key":"/home/jc/.wplocaldocker/global/ssl-certs/my-blog-test.key"}}
